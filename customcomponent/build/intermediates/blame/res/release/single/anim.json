@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\push_up_in.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\zoom_out.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_left.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\push_up.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\push_up.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\zoom_in.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\push_up_out.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\push_down_in.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\push_down_in.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_right_layout.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\slide_in_right_layout.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_right.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_left_layout.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\slide_in_left_layout.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_right.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_left.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\release\\anim\\push_down_out.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\src\\main\\res\\anim\\push_down_out.xml"
+    }
+]

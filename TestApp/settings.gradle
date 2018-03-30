@@ -1,0 +1,6 @@
+include ':app',':core-modul','customcomponent','MPChartLib'
+project(':core-modul').projectDir = new File('../core-modul')
+project(':customcomponent').projectDir = new File('../customcomponent')
+project(':MPChartLib').projectDir = new File('../MPChartLib')
+
+

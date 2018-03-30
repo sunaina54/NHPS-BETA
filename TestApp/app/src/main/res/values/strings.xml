@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NHPS-BETA</string>
+    <string name="action_settings">Settings</string>
+    <string name="action">Action</string>
+    <string name="replace_with_your_own_action">Replace with your own action</string>
+    <string name="splash_text">REVISED NATIONAL TUBERCULOSIS CONTROL PROGRAM</string>
+    <string name="splash_head_text">MINISTRY OF HEALTH AND FAMILY WELFARE\n GOVERMENT OF INDIA</string>
+</resources>

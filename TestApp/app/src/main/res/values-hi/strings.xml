@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">एनएचपीएस - बीटा</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="action">कार्य</string>
+    <string name="replace_with_your_own_action">अपनी खुद की कार्रवाई से बदलें</string>
+    <string name="splash_text">राष्ट्रीय ट्यूबरिलोसिस नियंत्रण कार्यक्रम को संशोधित किया गया</string>
+    <string name="splash_head_text">स्वास्थ्य और परिवार कल्याण और भारत सरकार का मंत्रालय</string>
+</resources>
