@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Alert">चेतावनी</string>
+    <string name="OK">ठीक</string>
+    <string name="choose_file">किसी फाइल का चयन करें</string>
+    <string name="chooser_title">Lorem ipsum</string>
+    <string name="empty_directory">खाली निर्देशिका</string>
+    <string name="error_selecting_file">फ़ाइल का चयन करने में त्रुटि</string>
+    <string name="internal_storage">आंतरिक स्टोरेज</string>
+    <string name="storage_removed">संग्रहण हटाया गया था या अनमाउंट किया गया था</string>
+</resources>
