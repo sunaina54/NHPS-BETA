@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\blue_button.xml",
+        "source": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\src\\main\\res\\drawable-ldpi\\blue_button.xml"
+    },
+    {
+        "merged": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\red_button.xml",
+        "source": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\src\\main\\res\\drawable-ldpi\\red_button.xml"
+    },
+    {
+        "merged": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\textview_rounded_shape.xml",
+        "source": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\src\\main\\res\\drawable-ldpi\\textview_rounded_shape.xml"
+    },
+    {
+        "merged": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\rounded_shape_edittext_white_back.xml",
+        "source": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\src\\main\\res\\drawable-ldpi\\rounded_shape_edittext_white_back.xml"
+    },
+    {
+        "merged": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\rounded_shape_edittext_for_validate_with_white.xml",
+        "source": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\src\\main\\res\\drawable-ldpi\\rounded_shape_edittext_for_validate_with_white.xml"
+    },
+    {
+        "merged": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\rounded_shape_button.xml",
+        "source": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\src\\main\\res\\drawable-ldpi\\rounded_shape_button.xml"
+    },
+    {
+        "merged": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\rounded_shape_edittext_for_validate.xml",
+        "source": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\src\\main\\res\\drawable-ldpi\\rounded_shape_edittext_for_validate.xml"
+    },
+    {
+        "merged": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\rounded_shape_edittext.xml",
+        "source": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\src\\main\\res\\drawable-ldpi\\rounded_shape_edittext.xml"
+    },
+    {
+        "merged": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\rounded_shape_orange.xml",
+        "source": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\src\\main\\res\\drawable-ldpi\\rounded_shape_orange.xml"
+    },
+    {
+        "merged": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\onfocus_edittext_shape.xml",
+        "source": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\src\\main\\res\\drawable-ldpi\\onfocus_edittext_shape.xml"
+    },
+    {
+        "merged": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\cyan_button.xml",
+        "source": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\src\\main\\res\\drawable-ldpi\\cyan_button.xml"
+    },
+    {
+        "merged": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\rounded_shape_button_blue.xml",
+        "source": "D:\\PS QuickIt\\REC\\workspace\\RACIndia_29-07-2017\\customcomponent\\src\\main\\res\\drawable-ldpi\\rounded_shape_button_blue.xml"
+    }
+]
