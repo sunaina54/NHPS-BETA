@@ -60,12 +60,12 @@
         "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_chooser.png",
         "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_chooser.png"
+    },
+    {
+        "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "D:\\ps_quick_it\\Test-Code-Base-26-March\\customcomponent\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rowstrokegrey.xml",
